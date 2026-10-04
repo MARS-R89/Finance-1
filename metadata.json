@@ -1,0 +1,8 @@
+{
+  "name": "Portfolio Simulator Engine",
+  "description": "Quantitative finance calculation and data engine for portfolio simulation, Monte Carlo GBM, and risk-return optimization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
